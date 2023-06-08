@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "myTapeTask", "myTapeTask\myTapeTask.vcxproj", "{60B13E46-184B-4916-9EF5-64896B6EE178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60B13E46-184B-4916-9EF5-64896B6EE178}.Debug|x64.ActiveCfg = Debug|x64
+		{60B13E46-184B-4916-9EF5-64896B6EE178}.Debug|x64.Build.0 = Debug|x64
+		{60B13E46-184B-4916-9EF5-64896B6EE178}.Debug|x86.ActiveCfg = Debug|Win32
+		{60B13E46-184B-4916-9EF5-64896B6EE178}.Debug|x86.Build.0 = Debug|Win32
+		{60B13E46-184B-4916-9EF5-64896B6EE178}.Release|x64.ActiveCfg = Release|x64
+		{60B13E46-184B-4916-9EF5-64896B6EE178}.Release|x64.Build.0 = Release|x64
+		{60B13E46-184B-4916-9EF5-64896B6EE178}.Release|x86.ActiveCfg = Release|Win32
+		{60B13E46-184B-4916-9EF5-64896B6EE178}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {794B84DA-4815-4934-8E07-68AC81E86F77}
+	EndGlobalSection
+EndGlobal
